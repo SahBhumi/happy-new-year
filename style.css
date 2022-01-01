@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.gif{
+    height: 35vh;
+    width: 35%;
+     background-image: url(balloon\ gif.gif);
+     background-size: cover;
+     position: absolute;
+     top: 60%;
+     left: 33%;
+     
+}
